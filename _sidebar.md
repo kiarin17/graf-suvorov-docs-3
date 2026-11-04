@@ -1,0 +1,8 @@
+- [Главная](README.md)
+- [Установка и первый вход](getting-started/README.md)
+  - [Роли пользователей](getting-started/roles/README.md)
+    - [Авторизация](getting-started/roles/authorization.md)
+- [Модуль официанта](waiter/README.md)
+  - [Создание заказа](waiter/create-order.md)
+- [Модуль кухни](kitchen/README.md)
+- [Частые вопросы](faq/README.md)
